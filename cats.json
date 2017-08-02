@@ -23,6 +23,9 @@
 		{
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat"
+		},
+		{
+			"name": "A cat"
 		}
 	]
 }
